@@ -1,0 +1,11 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hkawa90/sample.git",
+  "author": "Kawamura Hideo <kawa90@yahoo.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
